@@ -2,6 +2,10 @@
 
 This is a tool meant for tagging words with their part-of-speech, a grammatical category based on their function within a sentence, such as noun, adjective, verb, and so forth. 
 
+For Developers
+============
+You can also see [Java](https://github.com/starlangsoftware/EnglishPosTagger), [Python](https://github.com/starlangsoftware/EnglishPosTagger-Py), or [C++](https://github.com/starlangsoftware/EnglishPosTagger-CPP) repository.
+
 Detailed Description
 ============
 + [PosTagger](#postagger)
