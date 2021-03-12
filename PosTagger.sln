@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosTagger", "PosTagger\PosTagger.csproj", "{6FC7040A-FD3E-4511-8E07-18407A77E471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{AD4CEFE0-375D-49C0-AE57-F49E89D7DBF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC7040A-FD3E-4511-8E07-18407A77E471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC7040A-FD3E-4511-8E07-18407A77E471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC7040A-FD3E-4511-8E07-18407A77E471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC7040A-FD3E-4511-8E07-18407A77E471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4CEFE0-375D-49C0-AE57-F49E89D7DBF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4CEFE0-375D-49C0-AE57-F49E89D7DBF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4CEFE0-375D-49C0-AE57-F49E89D7DBF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4CEFE0-375D-49C0-AE57-F49E89D7DBF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
