@@ -3,13 +3,13 @@
     <PropertyGroup>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageId>NlpToolkit-PosTagger</PackageId>
-        <PackageVersion>1.0.3</PackageVersion>
-        <TargetFrameworks>netcoreapp3.1;net8.0</TargetFrameworks>
+        <PackageVersion>1.0.4</PackageVersion>
+        <TargetFramework>net8.0</TargetFramework>
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="NlpToolkit-Corpus" Version="1.0.8" />
-      <PackageReference Include="NlpToolkit-Hmm" Version="1.0.3" />
+      <PackageReference Include="NlpToolkit-Corpus" Version="1.0.17" />
+      <PackageReference Include="NlpToolkit-Hmm" Version="1.0.4" />
     </ItemGroup>
 
 </Project>
